@@ -24,6 +24,10 @@ bin/
 .classpath
 .project
 
+# visual studio
+
+.vs/
+
 # macos
 
 *.DS_Store

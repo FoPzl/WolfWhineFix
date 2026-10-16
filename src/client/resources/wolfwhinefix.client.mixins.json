@@ -3,7 +3,7 @@
 	"package": "me.fopzl.wolfwhinefix.client.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
-		"ExampleClientMixin"
+		"PacketDecoderMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
