@@ -3,7 +3,7 @@
 	"id": "wolfwhinefix",
 	"version": "${version}",
 	"name": "WolfWhineFix",
-	"description": "Keeps the client connected when a server sends a malformed sound packet.",
+	"description": "Keeps the client connected when a server sends a malformed sound packet or a swing animation for a non-living entity.",
 	"authors": [
 		"fopzl"
 	],
